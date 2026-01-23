@@ -1,4 +1,4 @@
-# Global AGENTS Guidelines
+# Global AGENTS 행동 규칙
 
 ## 답변
 - 모든 답변은 한국어로 작성하세요.

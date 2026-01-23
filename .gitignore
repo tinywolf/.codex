@@ -1,0 +1,8 @@
+log
+sessions
+skills/.system
+tmp/
+auth.json
+config.toml.bak
+history.jsonl
+version.json

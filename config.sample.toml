@@ -1,0 +1,7 @@
+approval_policy = 'on-request'
+preferred_auth_method = 'apikey'
+sandbox_mode = 'workspace-write'
+oss_provider = 'ollama'
+
+[tui]
+notifications = true

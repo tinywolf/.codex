@@ -3,6 +3,7 @@ sessions
 skills/.system
 tmp/
 auth.json
+config.toml
 config.toml.bak
 history.jsonl
 version.json

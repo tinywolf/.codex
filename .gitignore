@@ -7,3 +7,8 @@ config.toml
 config.toml.bak
 history.jsonl
 version.json
+sqlite
+vendor_imports
+.codex-global-state.json
+.personality_migration
+vendor_imports/skills-curated-cache.json

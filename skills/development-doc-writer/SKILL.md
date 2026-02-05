@@ -1,9 +1,9 @@
 ---
 name: development-doc-writer
-description: 프로젝트의 docs/development.md를 한국어로 작성하거나 갱신해 개발 가이드를 체계적으로 정리해야 할 때 사용한다. 특히 빌드/구성 지침, 프로젝트 구조/코딩 스타일/디자인 패턴, 테스트 설정·실행·추가 방법, 간단한 테스트 실행 시연, 보안 정보(비밀키/패스워드 등 노출 여부) 점검 내용을 포함해야 하는 경우에 사용한다.
+description: 프로젝트의 개발 가이드를 체계적으로 정리한 문서를 작성한다. “개발 가이드 문서 작성”, “development.md 생성” 같은 요청에 사용한다.
 ---
 
-# Development Doc Writer
+# 개발 가이드 문서 작성
 
 ## 목표
 - `docs/development.md`에 프로젝트 개발에 도움이 되는 특화 정보를 한국어로 정리하라.

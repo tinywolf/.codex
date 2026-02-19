@@ -1,5 +1,7 @@
 log
+rules
 sessions
+shell_snapshots
 skills/.system
 tmp/
 auth.json
@@ -12,3 +14,4 @@ vendor_imports
 .codex-global-state.json
 .personality_migration
 vendor_imports/skills-curated-cache.json
+models_cache.json

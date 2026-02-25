@@ -31,6 +31,13 @@ bash codex-sandbox.bash /path/to/project -- \
   --dangerously-bypass-approvals-and-sandbox
 ```
 
+### skills 마운트 (기본 비활성화)
+필요할 때만 `--mount-skills` 옵션으로 `~/.codex/skills`를 읽기 전용으로 마운트한다.
+
+```bash
+bash codex-sandbox.bash --mount-skills
+```
+
 ### docker run 런타임 인자 전달
 Docker 런타임 인자는 `DOCKER_RUN_OPTS` 환경변수로 전달한다.
 

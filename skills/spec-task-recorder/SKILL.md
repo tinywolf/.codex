@@ -3,7 +3,7 @@ name: spec-task-recorder
 description: SPEC.md(필수)와 PRD.md(선택)를 분석해 구현 작업을 세부 TASK로 분해하고 진행 상태를 포함한 TASK.md로 기록·갱신한다. 스펙 기반 작업 계획 수립, 작업 분해, 재개 가능한 진행상태 기록이 필요할 때 사용한다. 사용 예; "작업 계획 수립", "작업 계획 파일 작성", "TASK.md 작성".
 ---
 
-# Spec Task Recorder
+# Spec/Task Recorder
 
 ## 목표
 - SPEC.md를 우선 분석해 필요한 구현 작업을 도출한다.

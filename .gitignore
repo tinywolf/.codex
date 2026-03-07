@@ -1,9 +1,12 @@
 /*
 !/.gitignore
+!/*.md
+!/*.sh
 !/skills/
 !/skills/**
 /skills/.system/
 !/prompts/
-/prompts/*
-!/prompts/AGENT.md
+!/prompts/**
+!/sandbox/
+!/sandbox/**
 **/.DS_Store

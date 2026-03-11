@@ -13,9 +13,9 @@ if [[ ! -f "$SOURCE_FILE" ]]; then
 fi
 
 if [[ -f "$TARGET_FILE" ]]; then
-  read -r -p "'$TARGET_FILE' 파일이 이미 존재합니다. 덮어쓸까요? [y/N] " answer
+  read -r -p "'$TARGET_FILE' 파일이 이미 존재합니다. 덮어쓸까요? [Y/n] " answer
   case "$answer" in
-    y|Y|yes|YES|Yes)
+    ""|y|Y|yes|YES|Yes)
       ;;
     *)
       echo "취소: 파일을 덮어쓰지 않았습니다."

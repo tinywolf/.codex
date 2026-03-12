@@ -1,5 +1,5 @@
 ---
-name: github-pull-request-review
+name: github-pull-request-reviewer
 description: 지정된 PR이나 변경 세트($1)의 수정 내용을 검토할 때 사용한다. 변경 분석, 문제나 개선점 식별, 리뷰 코멘트 작성, 변경 없음 시 “리뷰 없음”으로 종료하는 절차를 안내한다.
 ---
 

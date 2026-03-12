@@ -1,5 +1,5 @@
 ---
-name: github-pull-request-create
+name: github-pull-request-creator
 description: 현재 브랜치 변경을 기반으로 master 또는 main을 대상(base)으로 Pull Request를 작성해야 할 때 사용한다. PR 템플릿(.github/pull_request_template.md) 준수, 한국어 내용 작성, 코드 주석에 언급된 링크 추출, PR 생성 전 초안 검토 절차를 포함한다.
 ---
 

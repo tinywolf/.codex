@@ -1,5 +1,5 @@
 ---
-name: document-updated-to-latest
+name: document-updater
 description: 특정 기준 리비전 이후 커밋된 내용을 반영해 아키텍처 문서와 개발 가이드 문서를 최신화할 때 사용한다. 코드 변경점 대비 문서 수정·삭제가 필요한지 확인하고, 불필요하거나 오래된 내용을 제거해 반영한다.
 ---
 

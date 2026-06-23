@@ -1,4 +1,4 @@
-# Global AGENTS 행동 규칙
+# Agent 공통 가이드라인
 
 ## 대화
 - 한국어로 답변
